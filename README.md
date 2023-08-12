@@ -5,7 +5,8 @@
 
 ---
 
-#### ⚡ Fun fact 
+<h3 align="center">« ⚡ Fun fact »</h3> 
+
 - **🎮 Gaming**
 - **🏊‍♂️ Swimming**
 - **✈️ Traveling**
